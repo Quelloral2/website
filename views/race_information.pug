@@ -1,0 +1,19 @@
+extends default
+
+block header
+
+block content
+  div.race_profile
+    div.details-image(style=`background: url('/images/${race.imgSrc}') top center
+    no-repeat; background-size: cover;`)
+    div.details
+      h1.race-name
+        | #{race.name}
+      h2.race-tagline
+        | #{race.tagline}
+      h2.race-date 
+        | #{race.date}
+      h3.race-quali_time
+        | #{race.quali_time}
+      h3.race-race_time 
+        | #{race.race_time}

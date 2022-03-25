@@ -1,0 +1,44 @@
+{
+    "race_profiles": [
+      {
+        "name": "Bahrain",
+        "tagline": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2022",
+        "date": "18-20 March 2022",
+        "quali_time": "Qualification start: 19 March 2022 17:00 UTC",
+        "race_time": "Race start: 20 March 2022 17:00 UTC",
+        "imgSrc": "bahrain.jpg",
+        "id": "round_1"
+      },
+  
+      {
+        "name": "Saudi Arabia",
+        "tagline": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2022",
+        "date": "25-27 March 2022",
+        "quali_time": "Qualification start: 26 March 2022 17:00 UTC",
+        "race_time": "Race start: 27 March 2022 18:00 UTC",
+        "imgSrc": "saudi_arabia.jpg",
+        "id": "round_2"
+      },
+
+      {
+        "name": "Australia",
+        "tagline": "FORMULA 1 HEINEKEN AUSTRALIAN GRAND PRIX 2022",
+        "date": "08-10 April 2022",
+        "quali_time": "Qualification start: 9 April 2022 07:00 UTC",
+        "race_time": "Race start: 10 April 2022 06:00 UTC",
+        "imgSrc": "australia.jpg",
+        "id": "round_3"
+      },
+
+      {
+        "name": "Imola",
+        "tagline": "FORMULA 1 ROLEX GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2022",
+        "date": "22-24 April 2022",
+        "quali_time": "Qualification start: TBC",
+        "race_time": "Race start: 24 April 2022 14:00 UTC",
+        "imgSrc": "imola.jpg",
+        "id": "round_4"
+      }
+    ]
+  }
+  
